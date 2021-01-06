@@ -5,12 +5,12 @@ There are 8 different Basalt data in Georoc web site. Here is the link: http://g
 
 ## Notebook Content:
 
-1. Data cleaning 
+###1. Data cleaning 
   1.1. Empty column drop
   1.2. Split data according to column names 
   1.3. Row cleaning 
   
-2. NaN values filling based on other column values 
+###2. NaN values filling based on other column values 
 
 3. Principal Componenet Analysis Application 
   3.1. Label Encoder Usage 
